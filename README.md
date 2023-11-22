@@ -1,3 +1,3 @@
 # Seascape Bank
 
-This is a banking app that does basic banking operations strictly using python and it's libraries and modules. It serves to provide fresh user-experience using creative design and efficient functionality through-out the entire applicaiton. The founders and programmers are Thato Mothobi (https://www.linkedin.com/in/thato-mothobi-4b6740249/) and Katleho Ribisi (https://www.linkedin.com/in/katleho-ribisi/)
+This innovative banking application leverages Python and its libraries and modules to perform fundamental banking operations seamlessly. With a focus on delivering a refreshing user experience, the application combines creative design with efficient functionality across its entire interface. Meet the talented founders and programmers behind this project: Thato Mothobi (LinkedIn: https://www.linkedin.com/in/thato-mothobi-4b6740249/) and Katleho Ribisi (LinkedIn: https://www.linkedin.com/in/katleho-ribisi/).
